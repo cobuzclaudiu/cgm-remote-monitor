@@ -148,8 +148,8 @@
       "required": false 
     }
   },
-  "addons":
-     }
-    }
-  }
+    "addons": [
+
+  ]
 }
+  "addons":
